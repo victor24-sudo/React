@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ac04f57.css",
+    "main.js": "/static/js/main.d927ac13.js",
+    "static/js/787.f6777bdc.chunk.js": "/static/js/787.f6777bdc.chunk.js",
+    "static/media/basurero-lata.png": "/static/media/basurero-lata.1d819a5642f1e07232d3.png",
+    "static/media/basurero-gris.png": "/static/media/basurero-gris.608071610dddd5554ec0.png",
+    "static/media/question.png": "/static/media/question.56ed30718e0d36422112.png",
+    "static/media/basurero-rojo.png": "/static/media/basurero-rojo.c991dd8fec03b3e0ae9a.png",
+    "static/media/basurero-amarillo.jpg": "/static/media/basurero-amarillo.245e7648c26ba8c7f38e.jpg",
+    "index.html": "/index.html",
+    "main.8ac04f57.css.map": "/static/css/main.8ac04f57.css.map",
+    "main.d927ac13.js.map": "/static/js/main.d927ac13.js.map",
+    "787.f6777bdc.chunk.js.map": "/static/js/787.f6777bdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ac04f57.css",
+    "static/js/main.d927ac13.js"
+  ]
+}
